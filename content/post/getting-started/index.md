@@ -56,6 +56,9 @@ There is one folder called demo in (assets/media/albums/demo)
 
 {{< gallery album="demo" >}} 
 
+## My own gallery
+
+{{< gallery album="as-2023-06-01" >}} 
 
 ## Overview
 
