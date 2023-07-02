@@ -46,6 +46,11 @@ import libr
 print('hello')
 ```
 
+## Checking if updating works
+
+This is my new text
+
+
 ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
