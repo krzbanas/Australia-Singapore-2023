@@ -50,6 +50,12 @@ print('hello')
 
 This is my new text
 
+## What about image gallery
+
+There is one folder called demo in (assets/media/albums/demo)
+
+{{< gallery album="demo" >}} 
+
 
 ## Overview
 
