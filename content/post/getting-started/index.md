@@ -39,6 +39,15 @@ tags:
 categories:
   - Demo
   - 教程
+
+
+gallery_item:
+- album: as-2023-06-01
+  image: img-01.jpeg
+  caption: 01 with beamline scientist
+- album: as-2023-06-01
+  image: img-02.jpeg
+  caption: 02 at work
 ---
 
 ```python
