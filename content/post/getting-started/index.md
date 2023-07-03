@@ -48,7 +48,22 @@ gallery_item:
 ---
 
 
-## First gallery
+## Samples Preparation
 
-{{< gallery album="as-2023-06-01" >}} 
+{{< gallery album="samples" >}} 
 
+## Inside the Hutch
+
+{{< gallery album="hutch" >}} 
+
+## XFM Beamline
+
+{{< gallery album="beamline" >}} 
+
+## At Work
+
+{{< gallery album="at-work" >}} 
+
+## Relax
+
+{{< gallery album="relax" >}} 
