@@ -32,7 +32,6 @@ authors:
   - admin
 
 tags:
-  - Dental
 
 categories:
   - Dental
