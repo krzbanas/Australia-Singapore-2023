@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: ISAP Singapore Australia Program
       image:
         filename: hero-academic.png
     #   cta:
