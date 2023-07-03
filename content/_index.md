@@ -170,8 +170,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Dental
+          tag: Dental
         - name: Other
           tag: Demo
     design:
