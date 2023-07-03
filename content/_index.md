@@ -10,8 +10,8 @@ sections:
       title: ISAP Singapore Australia Program
       image:
         filename: hero-academic.png
-      design:
-      background:
+    design:
+     background:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
