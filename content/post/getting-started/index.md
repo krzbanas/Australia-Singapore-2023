@@ -50,7 +50,16 @@ gallery_item:
 
 ## Samples Preparation
 
-{{< gallery album="samples" >}} 
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+          {{< gallery album="samples" >}} 
+    design:
+      columns: '4'
+
+
 
 ## Inside the Hutch
 
