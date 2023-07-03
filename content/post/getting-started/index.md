@@ -32,7 +32,7 @@ authors:
   - admin
 
 tags:
-
+  - Dental
 categories:
   - Dental
   - XRF
