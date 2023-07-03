@@ -182,12 +182,12 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  #    title: Gallery
+  #     subtitle: ''
+  #    text: |-
+  #      {{< gallery album="demo" >}}
+  #  design:
+  #    columns: '1'
   - block: collection
     id: featured
     content:
