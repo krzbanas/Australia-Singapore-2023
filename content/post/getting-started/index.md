@@ -54,9 +54,3 @@ gallery_item:
 
 {{< gallery album="as-2023-06-01" >}} 
 
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
