@@ -38,8 +38,6 @@ categories:
   - XRF
   - Ptychography
 
-
-
 gallery_item:
 - album: as-2023-06-01
   image: img-01.jpeg
@@ -48,6 +46,7 @@ gallery_item:
   image: img-02.jpeg
   caption: 02 at work
 ---
+
 
 ## First gallery
 
