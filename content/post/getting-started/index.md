@@ -50,7 +50,7 @@ gallery_item:
 
 ## Samples Preparation
 
-{{< gallery album="samples" resize_options="150x150" >}} 
+{{< gallery album="samples" >}} 
 
 ## Inside the Hutch
 
