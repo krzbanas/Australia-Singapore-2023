@@ -220,7 +220,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: slskb@nus.edu.sg
       address:
-        street: % Research Link
+        street: 5 Research Link
         city: Singapore
         postcode: '117603'
         country: Singapore
