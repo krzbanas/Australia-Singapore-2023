@@ -67,5 +67,3 @@ gallery_item:
 ## Relax
 
 {{< gallery album="relax" >}} 
-
-plese
