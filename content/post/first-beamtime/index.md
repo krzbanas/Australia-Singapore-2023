@@ -50,7 +50,6 @@ gallery_item:
 
 ## Samples Preparation
 
-
 {{< gallery album="samples" >}} 
 
 ## Inside the Hutch
@@ -68,3 +67,5 @@ gallery_item:
 ## Relax
 
 {{< gallery album="relax" >}} 
+
+plese
