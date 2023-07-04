@@ -9,10 +9,10 @@ summary: First beamtime at Australian Synchrotron
 projects: []
 
 # Date published
-date: '03.07.2023'
+date: '2023-07-03T00:00:00Z'
 
 # Date updated
-lastmod: '04.07.2023'
+lastmod: '2023-07-04T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
